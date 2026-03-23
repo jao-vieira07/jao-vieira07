@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o João Pedro! 👋
 
-<!--
-**jao-vieira07/jao-vieira07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Apaixonado por tecnologia, transformando ideias em código e buscando aprender algo novo todos os dias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🔭 Atualmente estou cursando **Engenharia de Software**.
+- 🌱 Estudando profundamente **Java/Banco de Dados**.
+- 💬 Pergunte-me sobre **Desenvolvimento Back - End**.
+- 📫 Como me encontrar: **joaopedrovieira080607@gmail.com**.
+
+---
+
+### 🛠️ Minhas Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frameworks** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Nuvem & Infra** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jao-vieira07&show_icons=true&theme=radical)
+
+---
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jao-vieira)
